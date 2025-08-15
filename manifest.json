@@ -7,40 +7,31 @@
         {
           "name": "Fase folicular",
           "pages": [
-            {
-              "title": "Fase folicular",
-              "path": "content/Ciclo menstrual/Fase folicular/fase_folicular.md"
-            }
+            { "title": "Fase folicular", "path": "content/Ciclo menstrual/Fase folicular/fase_folicular.md" }
           ]
         },
         {
           "name": "Fase ovulatoria",
           "pages": [
-            {
-              "title": "Fase ovulatoria",
-              "path": "content/Ciclo menstrual/Fase ovulatoria/fase_ovulatoria.md"
-            }
+            { "title": "Fase ovulatoria", "path": "content/Ciclo menstrual/Fase ovulatoria/fase_ovulatoria.md" }
           ]
         },
         {
           "name": "Fase lútea",
           "pages": [
-            {
-              "title": "Fase lútea",
-              "path": "content/Ciclo menstrual/Fase lútea/fase_lútea.md"
-            }
+            { "title": "Fase lútea", "path": "content/Ciclo menstrual/Fase lútea/fase_lútea.md" }
           ]
         },
         {
           "name": "Fase menstrual",
           "pages": [
-            {
-              "title": "Fase menstrual",
-              "path": "content/Ciclo menstrual/Fase menstrual/fase_menstrual.md"
-            }
+            { "title": "Fase menstrual", "path": "content/Ciclo menstrual/Fase menstrual/fase_menstrual.md" }
           ]
         }
       ]
-    }
+    },
+    { "name": "Reflexiones", "sections": [ { "name": "", "pages": [] } ] },
+    { "name": "Poesía", "sections": [ { "name": "", "pages": [] } ] },
+    { "name": "Vida de personas", "sections": [ { "name": "", "pages": [] } ] }
   ]
 }
